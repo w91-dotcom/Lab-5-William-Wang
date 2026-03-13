@@ -10,6 +10,7 @@ gcc -m32 -no-pie task1_unop.s -o task1_unop
 
 ### Run Commands
 ./task1_op
+./task1_unop
 
 ## Task 2
 gcc -O0 -S -m64 task2.c
