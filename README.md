@@ -1,7 +1,7 @@
 # Lab-5
 
 ## Task 1
-gcc -O0 -S -m32 task1_op.c    
+gcc -O0 -S -m32 task1_op.c   
 gcc -O4 -S -m32 task1_unop.c  
 
 ### Compile Commands
